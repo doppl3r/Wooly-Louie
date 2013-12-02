@@ -1,0 +1,16 @@
+Audit violations for codepro.audit at 5/20/13 10:51 PM
+
+Description,Recommendations,Severity,Resource,Line
+Empty Catch Clause (1)
+	Empty catch clause for exception e	Delete the empty catch clause.	Medium Severity	PanelThread.java	Line 23
+Integer Division in a Floating-point Expression (2)
+	Integer division in a floating-point expression	Cast one of the integers to a float. This will prevent round off error.	Medium Severity	Atmosphere.java	Line 76
+	Integer division in a floating-point expression	Cast one of the integers to a float. This will prevent round off error.	Medium Severity	Atmosphere.java	Line 76
+Log Exceptions (1)
+	Caught exception not logged	Use one of the logging methods to log the exception.	Medium Severity	PanelThread.java	Line 23
+Unnecessary Type Cast (5)
+	Unnecessary upgraded cast to Integer	Delete the unnecessary cast.	Medium Severity	AudioHandler.java	Line 43
+	Unnecessary upgraded cast to int	Delete the unnecessary cast.	Medium Severity	GamePanel.java	Line 65
+	Unnecessary upgraded cast to int	Delete the unnecessary cast.	Medium Severity	SpriteSheet.java	Line 21
+	Unnecessary upgraded cast to int	Delete the unnecessary cast.	Medium Severity	SpriteSheet.java	Line 39
+	Unnecessary upgraded cast to int	Delete the unnecessary cast.	Medium Severity	SpriteSheet.java	Line 41
