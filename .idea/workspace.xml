@@ -28,70 +28,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78442988-fbb2-4268-a81b-dd3e65984345" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/bg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/capture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/draw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/content/GUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/content/SlideDRAW.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/content/SlideHOME.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/content/SlideUPLOAD.java" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\gen\pack\woolylouie\main\Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\build.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\build_factory.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\build_mine.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\build_tree.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\button.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\clouds.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\degrade.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\exit.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\factory_metal.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\factory_wood.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\farm.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\metal.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\mine_metal.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\mine_wood.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\people.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\rock.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\rocks.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\start.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\terrain.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\text1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\text2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\title.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\trees.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\upgrade.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\wood.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Atmosphere.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Clouds.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Earth.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Environment.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Factories.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\GUI.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Game.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\MainMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Mines.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Mountains.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\People.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Player.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Rocks.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\Trees.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\textures\BitmapText.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-hdpi\icon.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-ldpi\icon.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\icon.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\src\game\GamePanel.java" afterPath="$PROJECT_DIR$/src/content/MainPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sampleface.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/title.png" />
+      <change type="MOVED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-hdpi\ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-hdpi/icon.png" />
+      <change type="MOVED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-ldpi\ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-ldpi/icon.png" />
+      <change type="MOVED" beforePath="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-mdpi\ic_launcher.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/bg1.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/bg1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/AndroidManifest.xml" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/buttons/Button.java" afterPath="$PROJECT_DIR$/src/buttons/Button.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/content/GUI.java" afterPath="$PROJECT_DIR$/src/content/GUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/content/MainPanel.java" afterPath="$PROJECT_DIR$/src/content/MainPanel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java" afterPath="$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java" afterPath="$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/content/SlideDRAW.java" afterPath="$PROJECT_DIR$/src/content/SlideDRAW.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/content/SlideHOME.java" afterPath="$PROJECT_DIR$/src/content/SlideHOME.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/textures/Textures.java" afterPath="$PROJECT_DIR$/src/textures/Textures.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Virga.iws" />
@@ -106,12 +58,12 @@
     <file path="/Clouds.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376253843370" ignored="false" />
     <file path="/Trees.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1377294940849" ignored="false" />
     <file path="/SpriteSheet.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376893716616" ignored="false" />
-    <file path="/Textures.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386069371698" ignored="false" />
-    <file path="/GUI.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386071320693" ignored="false" />
+    <file path="/Textures.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386076695675" ignored="false" />
+    <file path="/GUI.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386076997490" ignored="false" />
     <file path="/a.dummy" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376350861696" ignored="false" />
     <file path="/MainMenu.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376361389980" ignored="false" />
     <file path="/PanelThread.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386069806224" ignored="false" />
-    <file path="/Button.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376545315215" ignored="false" />
+    <file path="/Button.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386075054238" ignored="false" />
     <file path="/Rocks.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1377294079518" ignored="false" />
     <file path="/BitmapText.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376891277962" ignored="false" />
     <file path="/Game.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376548438474" ignored="false" />
@@ -146,8 +98,10 @@
     <file path="$PROJECT_DIR$/../CameraPreview/res/values/strings.xml" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386060953536" ignored="false" />
     <file path="$PROJECT_DIR$/../CameraPreview/gen/x/y/R.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386062499171" ignored="false" />
     <file path="$PROJECT_DIR$/../cam/res/menu/activity_cam.xml" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386063621901" ignored="false" />
-    <file path="/MainPanel.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386073024012" ignored="false" />
-    <file path="/SlideINTRO.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386072906165" ignored="false" />
+    <file path="/MainPanel.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386076976696" ignored="false" />
+    <file path="/SlideINTRO.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386075561599" ignored="false" />
+    <file path="/SlideHOME.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386075146750" ignored="false" />
+    <file path="/SlideDRAW.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386077255485" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,71 +167,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PanelActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="22" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SlideCAMERA.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/content/SlideCAMERA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="14" selection-start="175" selection-end="614" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpriteSheet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/textures/SpriteSheet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PanelThread.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="51" selection-start="2372" selection-end="2375" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPanel.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainPanel.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/content/MainPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="47" selection-start="3898" selection-end="3898" vertical-scroll-proportion="0.5159129">
+            <state line="19" column="19" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SlideHOME.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/content/SlideHOME.java">
+      <file leaf-file-name="PanelThread.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="5" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
+            <state line="56" column="51" selection-start="2247" selection-end="2247" vertical-scroll-proportion="0.16468254">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SlideDRAW.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/SlideDRAW.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="47" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -285,7 +199,7 @@
       <file leaf-file-name="Textures.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/textures/Textures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="77" selection-start="1486" selection-end="1486" vertical-scroll-proportion="27.44">
+            <state line="42" column="26" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-4.08">
               <folding />
             </state>
           </provider>
@@ -294,7 +208,7 @@
       <file leaf-file-name="GUI.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/content/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.0">
+            <state line="59" column="56" selection-start="1937" selection-end="1937" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -325,22 +239,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/content/DrawSlide.java" />
-        <option value="$PROJECT_DIR$/src/content/UploadSlide.java" />
         <option value="$PROJECT_DIR$/src/content/GamePanel.java" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/pack/woolylouie/main/CameraPreview.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/pack/woolylouie/main/CameraScreen.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java" />
         <option value="$PROJECT_DIR$/src/content/CameraSlide.java" />
+        <option value="$PROJECT_DIR$/src/content/SlideINTRO.java" />
+        <option value="$PROJECT_DIR$/src/buttons/Button.java" />
+        <option value="$PROJECT_DIR$/src/content/SlideHOME.java" />
         <option value="$PROJECT_DIR$/src/textures/Textures.java" />
+        <option value="$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java" />
+        <option value="$PROJECT_DIR$/src/content/MainPanel.java" />
+        <option value="$PROJECT_DIR$/src/content/SlideDRAW.java" />
         <option value="$PROJECT_DIR$/src/content/GUI.java" />
         <option value="$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java" />
-        <option value="$PROJECT_DIR$/src/content/SlideINTRO.java" />
-        <option value="$PROJECT_DIR$/src/content/SlideHOME.java" />
-        <option value="$PROJECT_DIR$/src/content/MainPanel.java" />
       </list>
     </option>
   </component>
@@ -481,6 +395,24 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="buttons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wooly Louie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wooly Louie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -511,6 +443,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="drawable-mdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wooly Louie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wooly Louie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-ldpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wooly Louie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wooly Louie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -545,6 +513,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-ldpi" />
+      <recent name="C:\Users\deben_000\IdeaProjects\Wooly Louie\res\drawable-hdpi" />
       <recent name="C:\Users\deben_000\IdeaProjects\Virga\src\game" />
       <recent name="C:\Users\deben_000\IdeaProjects\Virga\src\textures" />
     </key>
@@ -757,20 +727,20 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287879" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7962138" sideWeight="0.6911765" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45090714" sideWeight="0.7922222" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3077778" sideWeight="0.2470651" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41111112" sideWeight="0.24759872" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20777778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3077778" sideWeight="0.7524013" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41111112" sideWeight="0.7524013" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13233724" sideWeight="0.69222224" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.17888889" sideWeight="0.33617747" order="9" side_tool="true" content_ui="tabs" x="406" y="72" width="553" height="586" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13233724" sideWeight="0.5888889" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.15222222" sideWeight="0.33617747" order="9" side_tool="true" content_ui="tabs" x="406" y="72" width="553" height="586" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -844,20 +814,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Google Drive/Other/Backups/Programs/Boxel/backup_3/Boxel/src/pack/boxel/main/BoxelActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08510638">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Google Drive/Other/Backups/Programs/Boxel/backup_3/Boxel/src/pack/boxel/main/MainThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="53" selection-start="281" selection-end="281" vertical-scroll-proportion="0.2712766">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Google Drive/Other/Backups/Programs/Boxel/backup_3/Boxel/src/pack/boxel/main/Record.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="37" selection-start="998" selection-end="998" vertical-scroll-proportion="0.5553539">
@@ -882,63 +838,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Virga/src/game/MainMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="160" selection-start="287" selection-end="287" vertical-scroll-proportion="0.2562814">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/textures/Textures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="77" selection-start="1486" selection-end="1486" vertical-scroll-proportion="27.44">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="47" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1230" selection-end="1230" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="22" selection-start="1148" selection-end="1148" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="51" selection-start="2372" selection-end="2375" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/SlideCAMERA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="14" selection-start="175" selection-end="614" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,9 +852,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="47" selection-start="772" selection-end="772" vertical-scroll-proportion="0.59949625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="89" selection-start="2705" selection-end="2705" vertical-scroll-proportion="0.32985386">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/SlideCAMERA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="14" selection-start="175" selection-end="614" vertical-scroll-proportion="1.0793651">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="20" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/SlideHOME.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="5" selection-start="580" selection-end="580" vertical-scroll-proportion="0.0">
+        <state line="29" column="12" selection-start="893" selection-end="923" vertical-scroll-proportion="0.7176128">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -960,7 +895,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/content/MainPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="47" selection-start="3898" selection-end="3898" vertical-scroll-proportion="0.5159129">
+        <state line="19" column="19" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/textures/Textures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="26" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-4.08">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="56" selection-start="1937" selection-end="1937" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/SlideDRAW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="51" selection-start="2247" selection-end="2247" vertical-scroll-proportion="0.16468254">
           <folding />
         </state>
       </provider>

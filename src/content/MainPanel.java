@@ -17,7 +17,7 @@ public class MainPanel {
 	private double delta;
 	private double mod; //modifier
     private double mLastTime;
-    private int currentSlide = 0; //start at camera
+    private static int currentSlide = 0; //start at camera
     private int pixelsPerSecond = 1; //256 will be fast
     private int frameSamplesCollected = 0;
     private int frameSampleTime = 0;
@@ -125,5 +125,5 @@ public class MainPanel {
 	}
 	public static int getWidth(){ return width; } //get context and canvas width
 	public static int getHeight(){ return height; }
-
+    public static void setCurrentSlide(int i){ currentSlide = i; }
 }

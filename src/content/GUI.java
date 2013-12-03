@@ -20,11 +20,11 @@ public class GUI {
     }
     public void draw(Canvas canvas, Paint paint){
         if (!buildButtons){
-            button1 = new Button(MainPanel.textures.empty,0,canvas.getHeight()-96,false,context);
-            button2 = new Button(MainPanel.textures.capture,96,canvas.getHeight()-96,false,context);
-            button3 = new Button(MainPanel.textures.draw,192,canvas.getHeight()-96,false,context);
-            button4 = new Button(MainPanel.textures.upload,288,canvas.getHeight()-96,false,context);
-            button5 = new Button(MainPanel.textures.empty,384,canvas.getHeight()-96,false,context);
+            button1 = new Button(MainPanel.textures.empty,0,canvas.getHeight()-96,1,2,false,context);
+            button2 = new Button(MainPanel.textures.capture,96,canvas.getHeight()-96,1,2,false,context);
+            button3 = new Button(MainPanel.textures.draw,192,canvas.getHeight()-96,1,2,false,context);
+            button4 = new Button(MainPanel.textures.upload,288,canvas.getHeight()-96,1,2,false,context);
+            button5 = new Button(MainPanel.textures.empty,384,canvas.getHeight()-96,1,2,false,context);
             buildButtons = true;
         }
         else{
@@ -53,10 +53,10 @@ public class GUI {
         button5.move(x,y);
     }
     public void up(int x, int y){
-        button1.up(x,y);
-        button2.up(x,y);
-        button3.up(x,y);
-        button4.up(x,y);
-        button5.up(x,y);
+        if (button1.up(x,y)) MainPanel.setCurrentSlide(0);
+        if (button2.up(x,y)) MainPanel.setCurrentSlide(1);
+        if (button3.up(x,y)) MainPanel.setCurrentSlide(2);
+        if (button4.up(x,y)) MainPanel.setCurrentSlide(3);
+        if (button5.up(x,y)) MainPanel.setCurrentSlide(0);
     }
 }

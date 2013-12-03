@@ -56,20 +56,21 @@ public class PanelThread extends SurfaceView implements SurfaceHolder.Callback {
 				try {
 					canvas = mSurfaceHolder.lockCanvas(null);
 					synchronized (mSurfaceHolder) {
-                        if (canvas != null)
-						canvas.drawColor(Color.rgb(255, 255, 255));
-						// update screen resolution for other devices
-						if (screenWidth != canvas.getWidth() || screenHeight != canvas.getHeight()){
-							screenWidth = canvas.getWidth();
-							screenHeight = canvas.getHeight();
-						}
-						else{
-							// check content properties
-							gamePanel.updateMod(true);
-							gamePanel.update();
-							gamePanel.draw(canvas, screenWidth, screenHeight);
-							gamePanel.updateMod(false);
-						}
+                        if (canvas != null){
+                            canvas.drawColor(Color.rgb(255, 255, 255));
+                            // update screen resolution for other devices
+                            if (screenWidth != canvas.getWidth() || screenHeight != canvas.getHeight()){
+                                screenWidth = canvas.getWidth();
+                                screenHeight = canvas.getHeight();
+                            }
+                            else{
+                                // check content properties
+                                gamePanel.updateMod(true);
+                                gamePanel.update();
+                                gamePanel.draw(canvas, screenWidth, screenHeight);
+                                gamePanel.updateMod(false);
+                            }
+                        }
 					}
 				} finally { if (canvas != null) { mSurfaceHolder.unlockCanvasAndPost(canvas); }}
 			}

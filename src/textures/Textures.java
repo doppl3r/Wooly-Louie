@@ -15,11 +15,14 @@ public class Textures extends View {
     public Bitmap bg1;
     public Bitmap bg2;
     public Bitmap bg3;
+    public Bitmap title;
 
     public Bitmap capture;
     public Bitmap draw;
     public Bitmap upload;
     public Bitmap empty;
+
+    public Bitmap sampleFace;
 
 	public Textures(Context context){
 		super(context);
@@ -31,11 +34,14 @@ public class Textures extends View {
 		bg1 = BitmapFactory.decodeResource(getResources(), R.drawable.bg1, options);
         bg2 = BitmapFactory.decodeResource(getResources(), R.drawable.bg2, options);
         bg3 = BitmapFactory.decodeResource(getResources(), R.drawable.bg3, options);
+        title = BitmapFactory.decodeResource(getResources(), R.drawable.title, options);
         //content textures
         capture = BitmapFactory.decodeResource(getResources(), R.drawable.capture, options);
         draw = BitmapFactory.decodeResource(getResources(), R.drawable.draw, options);
         upload = BitmapFactory.decodeResource(getResources(), R.drawable.upload, options);
         empty = BitmapFactory.decodeResource(getResources(), R.drawable.empty, options);
+        //content textures
+        sampleFace = BitmapFactory.decodeResource(getResources(), R.drawable.sampleface, options);
 	}
 	public Bitmap renderMatrix(int[][] matrix, SpriteSheet sprite, int scale){
 		//set up paint/canvas properties

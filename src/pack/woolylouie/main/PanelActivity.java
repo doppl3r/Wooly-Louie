@@ -13,8 +13,6 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.view.Window;
 import android.view.WindowManager;
-
-import java.io.ByteArrayOutputStream;
 import java.io.File;
 
 public class PanelActivity extends Activity {
