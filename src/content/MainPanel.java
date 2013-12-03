@@ -1,4 +1,5 @@
 package content;
+import audio.AudioHandler;
 import textures.Textures;
 import android.content.Context;
 import android.graphics.Canvas;
@@ -10,6 +11,7 @@ public class MainPanel {
     public static SlideCAMERA camSlide;
     public static SlideDRAW drawSlide;
     public static SlideUPLOAD uploadSlide;
+    public static AudioHandler audio;
     public static GUI gui;
     public Context context;
 	private double now;
@@ -29,6 +31,7 @@ public class MainPanel {
 	public MainPanel(Context context){
 		this.context = context;
 		//set up paint
+        audio = new AudioHandler(context);
 		paint = new Paint();
 		paint.setARGB(255,255,255,255);
 		paint.setTextSize(24);

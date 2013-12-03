@@ -53,10 +53,25 @@ public class GUI {
         button5.move(x,y);
     }
     public void up(int x, int y){
-        if (button1.up(x,y)) MainPanel.setCurrentSlide(0);
-        if (button2.up(x,y)) MainPanel.setCurrentSlide(1);
-        if (button3.up(x,y)) MainPanel.setCurrentSlide(2);
-        if (button4.up(x,y)) MainPanel.setCurrentSlide(3);
-        if (button5.up(x,y)) MainPanel.setCurrentSlide(0);
+        if (button1.up(x,y)) {
+            MainPanel.setCurrentSlide(0);
+            MainPanel.audio.playSound(0);
+        }
+        if (button2.up(x,y)){
+            MainPanel.setCurrentSlide(1);
+            MainPanel.audio.playSound(0);
+        }
+        if (button3.up(x,y)){
+            MainPanel.setCurrentSlide(2);
+            MainPanel.audio.playSound(0);
+        }
+        if (button4.up(x,y)){
+            MainPanel.setCurrentSlide(3);
+            MainPanel.audio.playSound(0);
+        }
+        if (button5.up(x,y)){
+            MainPanel.setCurrentSlide(0);
+            MainPanel.audio.playSound(0);
+        }
     }
 }

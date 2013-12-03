@@ -5,6 +5,7 @@ import android.content.Context;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.media.SoundPool;
+import pack.woolylouie.main.R;
 
 public class AudioHandler {
 	private SoundPool sound;
@@ -28,7 +29,7 @@ public class AudioHandler {
 	}
 	public void init(){
 		//add sound effects
-	    //addSound(0,R.raw.sound0);
+	    addSound(0,R.raw.pop1);
 	    //addSound(1,R.raw.sound1);
 	}
 	public void addSound(int index, int SoundID) {   
