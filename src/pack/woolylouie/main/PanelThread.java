@@ -1,5 +1,5 @@
 package pack.woolylouie.main;
-import game.GamePanel;
+import content.MainPanel;
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -43,12 +43,12 @@ public class PanelThread extends SurfaceView implements SurfaceHolder.Callback {
 	public static class GraphicThread extends Thread {
 		private boolean mRun;
 		private SurfaceHolder mSurfaceHolder;
-		private static GamePanel gamePanel;
+		private static MainPanel gamePanel;
 		private int screenWidth, screenHeight;
 		
 		public GraphicThread(SurfaceHolder surfaceHolder, Context context) {
 			mSurfaceHolder = surfaceHolder;
-			gamePanel = new GamePanel(context);
+			gamePanel = new MainPanel(context);
 		}
 		public void run() {
 			while (mRun) {
@@ -56,14 +56,15 @@ public class PanelThread extends SurfaceView implements SurfaceHolder.Callback {
 				try {
 					canvas = mSurfaceHolder.lockCanvas(null);
 					synchronized (mSurfaceHolder) {
-						canvas.drawColor(Color.rgb(0, 0, 0));
+                        if (canvas != null)
+						canvas.drawColor(Color.rgb(255, 255, 255));
 						// update screen resolution for other devices
 						if (screenWidth != canvas.getWidth() || screenHeight != canvas.getHeight()){
 							screenWidth = canvas.getWidth();
 							screenHeight = canvas.getHeight();
 						}
 						else{
-							// check game properties
+							// check content properties
 							gamePanel.updateMod(true);
 							gamePanel.update();
 							gamePanel.draw(canvas, screenWidth, screenHeight);

@@ -1,5 +1,5 @@
 package textures;
-import pack.virga.main.R;
+import pack.woolylouie.main.R;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;
@@ -11,44 +11,31 @@ import android.graphics.Paint;
 import android.view.View;
 
 public class Textures extends View {
-	//game textures
-	public Bitmap terrain, mine_wood, mine_metal,
-            clouds, trees, people, rocks, factory_wood, factory_metal,
-            wood, rock, metal;
-
     //gui textures
-    public Bitmap start, arrow, build_mine, build_factory, build_tree,
-        exit, farm, upgrade, text1, text2;
+    public Bitmap bg1;
+    public Bitmap bg2;
+    public Bitmap bg3;
+
+    public Bitmap capture;
+    public Bitmap draw;
+    public Bitmap upload;
+    public Bitmap empty;
+
 	public Textures(Context context){
 		super(context);
 		//set up bitmap for all sdk's
 		BitmapFactory.Options options = new BitmapFactory.Options();
         options.inPreferredConfig = Config.ARGB_8888;  // API Level 1          
         options.inScaled = false;
-        //game textures
-		terrain = BitmapFactory.decodeResource(getResources(), R.drawable.terrain, options);
-        mine_wood = BitmapFactory.decodeResource(getResources(), R.drawable.mine_wood, options);
-        mine_metal = BitmapFactory.decodeResource(getResources(), R.drawable.mine_metal, options);
-		factory_wood = BitmapFactory.decodeResource(getResources(), R.drawable.factory_wood, options);
-        factory_metal = BitmapFactory.decodeResource(getResources(), R.drawable.factory_metal, options);
-		clouds = BitmapFactory.decodeResource(getResources(), R.drawable.clouds, options);
-		trees = BitmapFactory.decodeResource(getResources(), R.drawable.trees, options);
-		people = BitmapFactory.decodeResource(getResources(), R.drawable.people, options);
-		rocks = BitmapFactory.decodeResource(getResources(), R.drawable.rocks, options);
-        wood = BitmapFactory.decodeResource(getResources(), R.drawable.wood, options);
-        rock = BitmapFactory.decodeResource(getResources(), R.drawable.rock, options);
-        metal = BitmapFactory.decodeResource(getResources(), R.drawable.metal, options);
-		//gui
-		start = BitmapFactory.decodeResource(getResources(), R.drawable.start, options);
-		build_tree = BitmapFactory.decodeResource(getResources(), R.drawable.build_tree, options);
-        build_mine = BitmapFactory.decodeResource(getResources(), R.drawable.build_mine, options);
-        build_factory = BitmapFactory.decodeResource(getResources(), R.drawable.build_factory, options);
-		exit = BitmapFactory.decodeResource(getResources(), R.drawable.exit, options);
-        farm = BitmapFactory.decodeResource(getResources(), R.drawable.farm, options);
-		upgrade = BitmapFactory.decodeResource(getResources(), R.drawable.upgrade, options);
-        arrow = BitmapFactory.decodeResource(getResources(), R.drawable.arrow, options);
-		text1 = BitmapFactory.decodeResource(getResources(), R.drawable.text1, options);
-		text2 = BitmapFactory.decodeResource(getResources(), R.drawable.text2, options);
+        //content textures
+		bg1 = BitmapFactory.decodeResource(getResources(), R.drawable.bg1, options);
+        bg2 = BitmapFactory.decodeResource(getResources(), R.drawable.bg2, options);
+        bg3 = BitmapFactory.decodeResource(getResources(), R.drawable.bg3, options);
+        //content textures
+        capture = BitmapFactory.decodeResource(getResources(), R.drawable.capture, options);
+        draw = BitmapFactory.decodeResource(getResources(), R.drawable.draw, options);
+        upload = BitmapFactory.decodeResource(getResources(), R.drawable.upload, options);
+        empty = BitmapFactory.decodeResource(getResources(), R.drawable.empty, options);
 	}
 	public Bitmap renderMatrix(int[][] matrix, SpriteSheet sprite, int scale){
 		//set up paint/canvas properties

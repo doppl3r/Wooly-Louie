@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Virga</string>  
-    
-	<string name="empty_text"></string>
+    <string name="hello">Hello World, TonyPicturesInc!</string>
+    <string name="app_name">Wooly Louie</string>
+    <string name="desc">App</string>
 </resources>
