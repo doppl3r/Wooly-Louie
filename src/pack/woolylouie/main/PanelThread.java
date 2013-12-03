@@ -54,7 +54,7 @@ public class PanelThread extends SurfaceView implements SurfaceHolder.Callback {
 			while (mRun) {
 				Canvas canvas = null;
 				try {
-					canvas = mSurfaceHolder.lockCanvas(null);
+                    canvas = mSurfaceHolder.lockCanvas(null);
 					synchronized (mSurfaceHolder) {
                         if (canvas != null){
                             canvas.drawColor(Color.rgb(255, 255, 255));

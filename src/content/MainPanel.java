@@ -35,7 +35,7 @@ public class MainPanel {
 		paint = new Paint();
 		paint.setARGB(255,255,255,255);
 		paint.setTextSize(24);
-		paint.setAntiAlias(true);
+		paint.setAntiAlias(false);
 	}
 	public void draw(Canvas canvas, int screenWidth, int screenHeight){
 		if (width <= 0 || height <= 0){

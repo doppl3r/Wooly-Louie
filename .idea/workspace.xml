@@ -28,15 +28,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78442988-fbb2-4268-a81b-dd3e65984345" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/pop1.wav" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/audio/AudioHandler.java" afterPath="$PROJECT_DIR$/src/audio/AudioHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/content/GUI.java" afterPath="$PROJECT_DIR$/src/content/GUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/content/Particles.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/content/MainPanel.java" afterPath="$PROJECT_DIR$/src/content/MainPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java" afterPath="$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/content/SlideDRAW.java" afterPath="$PROJECT_DIR$/src/content/SlideDRAW.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Virga.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386060725554" ignored="false" />
+    <file path="/Dummy.txt" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386079215345" ignored="false" />
     <file path="/fragment.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386063595317" ignored="false" />
     <file path="/Environment.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1377378814263" ignored="false" />
     <file path="/Factories.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1377297186836" ignored="false" />
@@ -50,7 +50,7 @@
     <file path="/GUI.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386078618147" ignored="false" />
     <file path="/a.dummy" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376350861696" ignored="false" />
     <file path="/MainMenu.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376361389980" ignored="false" />
-    <file path="/PanelThread.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386069806224" ignored="false" />
+    <file path="/PanelThread.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386078883309" ignored="false" />
     <file path="/Button.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386078580776" ignored="false" />
     <file path="/Rocks.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1377294079518" ignored="false" />
     <file path="/BitmapText.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1376891277962" ignored="false" />
@@ -86,11 +86,12 @@
     <file path="$PROJECT_DIR$/../CameraPreview/res/values/strings.xml" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386060953536" ignored="false" />
     <file path="$PROJECT_DIR$/../CameraPreview/gen/x/y/R.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386062499171" ignored="false" />
     <file path="$PROJECT_DIR$/../cam/res/menu/activity_cam.xml" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386063621901" ignored="false" />
-    <file path="/MainPanel.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386076976696" ignored="false" />
+    <file path="/MainPanel.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386081621749" ignored="false" />
     <file path="/SlideINTRO.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386075561599" ignored="false" />
     <file path="/SlideHOME.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386075146750" ignored="false" />
-    <file path="/SlideDRAW.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386077255485" ignored="false" />
+    <file path="/SlideDRAW.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386079557229" ignored="false" />
     <file path="/AudioHandler.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386078531373" ignored="false" />
+    <file path="/Particles.java" changelist="78442988-fbb2-4268-a81b-dd3e65984345" time="1386082623956" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,10 +157,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainPanel.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainPanel.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/content/MainPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="22" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
+            <state line="63" column="10" selection-start="2067" selection-end="2067" vertical-scroll-proportion="0.56150794">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PanelThread.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="20" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,15 +179,6 @@
         <entry file="file://$PROJECT_DIR$/src/buttons/Button.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="80" column="45" selection-start="2615" selection-end="2615" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PanelThread.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="51" selection-start="2247" selection-end="2247" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -197,7 +198,7 @@
       <file leaf-file-name="SlideDRAW.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/content/SlideDRAW.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+            <state line="38" column="26" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,11 +206,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Textures.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/textures/Textures.java">
+      <file leaf-file-name="Particles.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/content/Particles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="65" selection-start="3272" selection-end="3272" vertical-scroll-proportion="1.8810021">
-              <folding />
+            <state line="17" column="20" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,7 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/pack/woolylouie/main/CameraPreview.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/pack/woolylouie/main/CameraScreen.java" />
@@ -247,12 +249,13 @@
         <option value="$PROJECT_DIR$/src/content/SlideHOME.java" />
         <option value="$PROJECT_DIR$/src/textures/Textures.java" />
         <option value="$PROJECT_DIR$/src/pack/woolylouie/main/PanelActivity.java" />
-        <option value="$PROJECT_DIR$/src/content/SlideDRAW.java" />
-        <option value="$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java" />
-        <option value="$PROJECT_DIR$/src/content/MainPanel.java" />
         <option value="$PROJECT_DIR$/src/audio/AudioHandler.java" />
         <option value="$PROJECT_DIR$/src/buttons/Button.java" />
         <option value="$PROJECT_DIR$/src/content/GUI.java" />
+        <option value="$PROJECT_DIR$/src/content/SlideDRAW.java" />
+        <option value="$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java" />
+        <option value="$PROJECT_DIR$/src/content/Particles.java" />
+        <option value="$PROJECT_DIR$/src/content/MainPanel.java" />
       </list>
     </option>
   </component>
@@ -835,13 +838,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="63" selection-start="50" selection-end="50" vertical-scroll-proportion="0.025222551">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="33" selection-start="208" selection-end="208" vertical-scroll-proportion="0.13097073">
@@ -905,18 +901,25 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/SlideDRAW.java">
+    <entry file="file://$PROJECT_DIR$/src/content/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="874" selection-end="874" vertical-scroll-proportion="0.0">
+        <state line="48" column="102" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.08928572">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
+    <entry file="file://$PROJECT_DIR$/src/textures/Textures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="51" selection-start="2247" selection-end="2247" vertical-scroll-proportion="0.0">
+        <state line="37" column="60" selection-start="1282" selection-end="1282" vertical-scroll-proportion="-1.0292276">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="45" selection-start="2615" selection-end="2615" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -930,32 +933,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/MainPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/content/Particles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="744" selection-end="744" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/buttons/Button.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="45" selection-start="2615" selection-end="2615" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/content/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="102" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.08928572">
+        <state line="17" column="20" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/textures/Textures.java">
+    <entry file="file://$PROJECT_DIR$/src/content/SlideDRAW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="65" selection-start="3272" selection-end="3272" vertical-scroll-proportion="1.8810021">
+        <state line="38" column="26" selection-start="1180" selection-end="1180" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pack/woolylouie/main/PanelThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="20" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/content/MainPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="10" selection-start="2067" selection-end="2067" vertical-scroll-proportion="0.56150794">
           <folding />
         </state>
       </provider>
