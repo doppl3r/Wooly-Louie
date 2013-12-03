@@ -1,4 +1,4 @@
-package pack.virga.main;
+package pack.woolylouie.main;
 import game.GamePanel;
 import android.content.Context;
 import android.graphics.Canvas;

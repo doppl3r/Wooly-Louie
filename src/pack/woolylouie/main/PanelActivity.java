@@ -1,4 +1,4 @@
-package pack.virga.main;
+package pack.woolylouie.main;
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
